@@ -17,7 +17,7 @@ internal class Plugin : BaseUnityPlugin
 {
 
 	public const string GUID = "dev.gmeister.unsighted.timeless";
-	public const string NAME = "Unsighted Timeless";
+	public const string NAME = "UNSIGHTED - Timeless";
 	public const string VERSION = "1.0.0";
 
 	public ConfigEntry<bool> configEnable;
